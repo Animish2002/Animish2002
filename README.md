@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Animish Chopade</h1>
-<h3 align="center">A passionate Java developer from India with interest in Machine Learning and FrontEnd Development</h3>
+<h3 align="center">A passionate Full Stack developer from India with interest in AI and FrontEnd Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=animish2002&label=Profile%20views&color=0e75b6&style=flat" alt="animish2002" /> </p>
 
